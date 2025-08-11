@@ -22,15 +22,12 @@
 
 <p align="center">
   <svg xmlns="http://www.w3.org/2000/svg" width="200" height="30" viewBox="0 0 200 30">
-    <text x="10" y="20" font-size="14" fill="#FF5E78" font-family="Arial">2G</text>
-    <text x="50" y="20" font-size="14" fill="#FFA500" font-family="Arial">3G</text>
-    <text x="90" y="20" font-size="14" fill="#39FF14" font-family="Arial">4G</text>
-    <text x="130" y="20" font-size="14" fill="#00B5E2" font-family="Arial">5G</text>
+    <text x="10" y="20" font-size="14" fill="#FF5E78" font-family="Arial">GSM</text>
+    <text x="50" y="20" font-size="14" fill="#FFA500" font-family="Arial">LTE</text>
+    <text x="90" y="20" font-size="14" fill="#39FF14" font-family="Arial">NR</text>
+    <text x="130" y="20" font-size="14" fill="#00B5E2" font-family="Arial">WiFi</text>
   </svg>
 </p>
-
-
-
 
 ## 🚀 About Me
 
