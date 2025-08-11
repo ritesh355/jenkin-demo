@@ -9,6 +9,7 @@
 </p>
 
 ---
+
 <p align="center">
   <svg xmlns="http://www.w3.org/2000/svg" width="300" height="30">
     <rect x="0"   y="20" width="20" height="10" fill="#FF5E78" rx="3" />
@@ -18,6 +19,7 @@
     <rect x="120" y="0"  width="20" height="30" fill="#8A2BE2" rx="3" />
   </svg>
 </p>
+
 ---
 
 ## 🚀 About Me
