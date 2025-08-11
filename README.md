@@ -18,14 +18,9 @@
 ---
 ## 🐳 Docker Hub
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Docker%20Pulls-100-0A192F?style=flat-square" alt="Total Docker Pulls" />
+  <img src="https://img.shields.io/badge/Total%20Docker%20Pulls-190-0A192F?style=flat-square" alt="Total Docker Pulls" />
   <br>
   <a href="https://hub.docker.com/u/ritesh355">Explore my Docker images</a>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/docker/pulls/ritesh355/my-node-app?color=0A192F" alt="my-node-app Pulls" />
-  <img src="https://img.shields.io/docker/pulls/ritesh355/node-mongo-app?color=0A192F" alt="node-mongo-app Pulls" />
-  <img src="https://img.shields.io/docker/pulls/ritesh355/flask-ci-cd-demo?color=0A192F" alt="flask-ci-cd-demo Pulls" />
 </p>
 
 
