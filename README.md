@@ -20,7 +20,10 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Total%20Docker%20Pulls-190-0A192F?style=flat-square" alt="Total Docker Pulls" />
   <br>
-  <a href="https://hub.docker.com/u/ritesh355">Explore my Docker images</a>
+  <a href="https://hub.docker.com/u/ritesh355" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Explore my Docker images" />
+</a>
+
 </p>
 
 
