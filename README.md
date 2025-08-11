@@ -107,6 +107,12 @@
 
 ## 📢 Follow My Journey
 <p align="center">
+  <p align="center">
+  <a href="https://ritesh-devops.hashnode.dev"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=flat-square&logo=hashnode&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/ritesh-singh-092b84340"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/ritesh355"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://x.com/yourusername"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>
+</p>
   <a href="https://ritesh-devops.hashnode.dev" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
   <a href="https://linkedin.com/in/ritesh-singh-092b84340" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/ritesh355" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
