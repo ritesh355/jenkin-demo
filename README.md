@@ -16,7 +16,7 @@
 </p>
 
 ---
-<img src="https://github.com/ritesh355/your-repo/actions/workflows/ci.yml/badge.svg" alt="CI/CD Status" />
+<img src="https://github.com/ritesh355/ci-cd-practice/actions/workflows/ci.yml/badge.svg" alt="CI/CD Status" />
 
 ---
 
