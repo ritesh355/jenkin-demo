@@ -9,10 +9,17 @@
 </p>
 
 ---
-
 <p align="center">
-  <img src="https://i.imgur.com/Qp5mWFe.png" alt="colorful line" width="100" height="6" />
+  <svg xmlns="http://www.w3.org/2000/svg" width="120" height="30" viewBox="0 0 120 30">
+    <rect x="0"   y="15" width="20" height="15" fill="#FF5E78" rx="3" />
+    <rect x="30"  y="10" width="20" height="20" fill="#FFA500" rx="3" />
+    <rect x="60"  y="5"  width="20" height="25" fill="#39FF14" rx="3" />
+    <rect x="90"  y="0"  width="20" height="30" fill="#00B5E2" rx="3" />
+  </svg>
 </p>
+
+
+
 
 ## 🚀 About Me
 
