@@ -11,22 +11,9 @@
 ---
 
 <p align="center">
-  <svg xmlns="http://www.w3.org/2000/svg" width="300" height="30">
-    <rect x="0"   y="20" width="20" height="10" fill="#FF5E78" rx="3" />
-    <rect x="30"  y="15" width="20" height="15" fill="#FFA500" rx="3" />
-    <rect x="60"  y="10" width="20" height="20" fill="#39FF14" rx="3" />
-    <rect x="90"  y="5"  width="20" height="25" fill="#00B5E2" rx="3" />
-    <rect x="120" y="0"  width="20" height="30" fill="#8A2BE2" rx="3" />
-  </svg>
-</p>
-
----
-
-<p align="center">
   <span style="display:inline-block; height:4px; width:60px; border-radius:2px; background: linear-gradient(90deg, #FF5E78, #FFA500, #39FF14, #00B5E2, #8A2BE2);"></span>
 </p>
 
-## 🚀 About Me
 
 
 ## 🚀 About Me
