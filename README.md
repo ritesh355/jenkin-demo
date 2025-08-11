@@ -16,9 +16,10 @@
 </p>
 
 ---
-<img src="https://github.com/ritesh355/ci-cd-practice/actions/workflows/ci.yml/badge.svg" alt="CI/CD Status" />
-
----
+## 🐳 Docker Hub
+<p align="center">
+  <img src="https://img.shields.io/docker/pulls/ritesh355/my-app?color=0A192F" alt="Docker Pulls" />
+</p>
 
 
 
