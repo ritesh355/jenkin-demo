@@ -22,6 +22,13 @@
 
 ---
 
+<p align="center">
+  <span style="display:inline-block; height:4px; width:60px; border-radius:2px; background: linear-gradient(90deg, #FF5E78, #FFA500, #39FF14, #00B5E2, #8A2BE2);"></span>
+</p>
+
+## 🚀 About Me
+
+
 ## 🚀 About Me
 
 - 🌟 Currently on **Day 40** of my **100 Days of DevOps** journey  
