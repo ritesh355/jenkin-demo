@@ -18,7 +18,7 @@
   <span style="display:inline-block; height:12px; width:10px; border-radius:2px; background:#8A2BE2;"></span>
 </p>
 
-## 🚀 About Me
+
 
 
 ## 🚀 About Me
