@@ -1,4 +1,3 @@
-
 <!-- HEADER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5&height=200&section=header&text=Hi,%20I'm%20Ritesh%20Singh%20🚀&fontSize=35&fontColor=ffffff&animation=scaleIn&fontAlignY=35&font=JetBrains+Mono" alt="header" />
@@ -45,6 +44,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="45" height="45" title="Nginx" />&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" height="45" title="AWS" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="45" height="45" title="Google Cloud" />&nbsp;
+</p>
+
+<!-- DEVOPS INFINITY LOOP -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/230553236-d3e6d4df-69c3-4b57-a3f7-3c34df571b1d.gif" width="800" alt="DevOps Infinity Loop" />
 </p>
 
 ---
