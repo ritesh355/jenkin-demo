@@ -73,21 +73,18 @@
 </p>
 
 ---
-## 📊 GitHub Analytics (with Glow ✨)
 
+## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ritesh355&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=FF5E78&border_radius=12&ring_color=39FF14" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritesh355&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=FF5E78&border_radius=12&ring_color=39FF14" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ritesh355&show_icons=true&theme=tokyonight" height="165" />&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritesh355&layout=compact&theme=tokyonight" height="165" />
 </p>
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ritesh355&theme=tokyonight&background=0d1117&border=FF5E78&ring=39FF14&fire=FF5E78&currStreakLabel=39FF14" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=ritesh355&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ritesh355&label=Profile+Visitors&color=FF5E78&style=for-the-badge" alt="Visitors" />
+  <img src="https://komarev.com/ghpvc/?username=ritesh355&label=Profile+Visitors&color=0e75b6&style=flat" alt="Visitors" />
 </p>
-
 
 ---
 
