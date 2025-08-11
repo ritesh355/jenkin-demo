@@ -10,16 +10,9 @@
 
 ---
 
-<p align="center" style="margin-bottom:0;">
-  <span style="display:inline-block; height:4px; width:10px; margin-right:3px; border-radius:2px; background:#FF5E78;"></span>
-  <span style="display:inline-block; height:6px; width:10px; margin-right:3px; border-radius:2px; background:#FFA500;"></span>
-  <span style="display:inline-block; height:8px; width:10px; margin-right:3px; border-radius:2px; background:#39FF14;"></span>
-  <span style="display:inline-block; height:10px; width:10px; margin-right:3px; border-radius:2px; background:#00B5E2;"></span>
-  <span style="display:inline-block; height:12px; width:10px; border-radius:2px; background:#8A2BE2;"></span>
+<p align="center">
+  <img src="https://i.imgur.com/Qp5mWFe.png" alt="colorful line" width="100" height="6" />
 </p>
-
-
-
 
 ## 🚀 About Me
 
