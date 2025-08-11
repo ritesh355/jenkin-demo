@@ -9,12 +9,23 @@
 </p>
 
 ---
+## 🚀 About Me
+
 <p align="center">
   <svg xmlns="http://www.w3.org/2000/svg" width="120" height="30" viewBox="0 0 120 30">
     <rect x="0"   y="15" width="20" height="15" fill="#FF5E78" rx="3" />
     <rect x="30"  y="10" width="20" height="20" fill="#FFA500" rx="3" />
     <rect x="60"  y="5"  width="20" height="25" fill="#39FF14" rx="3" />
     <rect x="90"  y="0"  width="20" height="30" fill="#00B5E2" rx="3" />
+  </svg>
+</p>
+
+<p align="center">
+  <svg xmlns="http://www.w3.org/2000/svg" width="200" height="30" viewBox="0 0 200 30">
+    <text x="10" y="20" font-size="14" fill="#FF5E78" font-family="Arial">2G</text>
+    <text x="50" y="20" font-size="14" fill="#FFA500" font-family="Arial">3G</text>
+    <text x="90" y="20" font-size="14" fill="#39FF14" font-family="Arial">4G</text>
+    <text x="130" y="20" font-size="14" fill="#00B5E2" font-family="Arial">5G</text>
   </svg>
 </p>
 
