@@ -18,7 +18,7 @@
 ---
 ## 🐳 Docker Hub
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Docker%20Pulls-1000-0A192F?style=flat-square" alt="Total Docker Pulls" />
+  <img src="https://img.shields.io/badge/Total%20Docker%20Pulls-100-0A192F?style=flat-square" alt="Total Docker Pulls" />
   <br>
   <a href="https://hub.docker.com/u/ritesh355">Explore my Docker images</a>
 </p>
