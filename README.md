@@ -14,7 +14,12 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ritesh355&theme=onedark&no-frame=true" />
 </p>
- ---
+
+---
+<img src="https://github.com/ritesh355/your-repo/actions/workflows/ci.yml/badge.svg" alt="CI/CD Status" />
+
+---
+
 
 
 ## 🚀 About Me
