@@ -42,6 +42,7 @@
 <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" title="Prometheus" width="40" height="40" />&nbsp;
 <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" title="Grafana" width="40" height="40" />&nbsp;
 </p>
+
 ---
 
 #### **Programming & Scripting**
@@ -51,6 +52,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40" />&nbsp;
 </p>
+
 ---
 
 ### **Web & Backend**
@@ -61,6 +63,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" width="40" height="40" />&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" title="Nginx" width="40" height="40" />&nbsp;
 </p>
+
 ---
 
 ## 🚀 Featured Projects
