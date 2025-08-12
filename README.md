@@ -77,7 +77,12 @@
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ritesh355&theme=radical&no-frame=true&column=4" />
+  <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ritesh355&theme=react-dark" alt="Activity Graph" width="90%" />
 </p>
+
+</p>
+
 
 ---
 
