@@ -33,8 +33,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" width="60" height="40" />&nbsp;
 </p>
 
----
-
 #### **Configuration & Monitoring**
  <p align="center"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" title="Ansible" width="40" height="40" />&nbsp;
@@ -43,8 +41,6 @@
 <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" title="Grafana" width="40" height="40" />&nbsp;
 </p>
 
----
-
 #### **Programming & Scripting**
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40" />&nbsp;
@@ -52,8 +48,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40" />&nbsp;
 </p>
-
----
 
 ### **Web & Backend**
 <p align="center">
