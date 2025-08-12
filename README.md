@@ -99,6 +99,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ritesh355&show_icons=true&theme=tokyonight" height="165" />&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritesh355&layout=compact&theme=tokyonight" height="165" />
 </p>
+![GitHub Streak](https://streak-stats.demolab.com?user=ritesh355&theme=tokyonight&hide_border=true&v=1)
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ritesh355&label=Profile+Visitors&color=0e75b6&style=flat" alt="Visitors" />
