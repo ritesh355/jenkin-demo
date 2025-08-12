@@ -30,12 +30,15 @@
 ![Terraform](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg "Terraform")&nbsp;
 ![AWS](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg "AWS")&nbsp;
 
+---
+
 ### **Configuration & Monitoring**
 ![Ansible](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg "Ansible")&nbsp;
 ![Bash](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg "Bash")&nbsp;
 ![Prometheus](https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg "Prometheus")&nbsp;
 ![Grafana](https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg "Grafana")&nbsp;
 
+---
 ### **Programming & Scripting**
 ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg "Python")&nbsp;
 ![C](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg "C")&nbsp;
