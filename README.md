@@ -76,11 +76,9 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritesh355&layout=compact&theme=tokyonight&nocache=1" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ritesh355&theme=tokyonight&hide_border=true" />
-</p>
   <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ritesh355&theme=react-dark" alt="Activity Graph" width="90%" />
+  <img src="https://streak-stats.demolab.com?user=ritesh355&theme=tokyonight&hide_border=true&nocache=1" />
+
 </p>
 
 ---
