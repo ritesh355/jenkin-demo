@@ -71,10 +71,17 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ritesh355&show_icons=true&theme=tokyonight&hide=issues,contribs&timestamp=1699999999" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritesh355&layout=compact&theme=tokyonight&nocache=1" />
+<!-- Stats Card -->
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ritesh355&show_icons=true&theme=tokyonight&hide=issues,contribs&card_width=420" />
+
+&nbsp;&nbsp;
+
+<!-- Top Languages Card -->
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritesh355&layout=compact&theme=tokyonight&card_width=420" />
+
 </p>
+
 
   <p align="center">
   <img src="https://streak-stats.demolab.com?user=ritesh355&theme=tokyonight&hide_border=true&nocache=1" />
