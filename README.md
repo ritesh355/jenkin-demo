@@ -70,7 +70,7 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
+<p align="left">
 
 <!-- Stats Card -->
 <img src="https://github-readme-stats.vercel.app/api?username=ritesh355&show_icons=true&theme=tokyonight&hide=issues,contribs&card_width=420" />
@@ -82,7 +82,7 @@
 
 
 
-  <p align="center">
+  <p align="left">
   <img src="https://streak-stats.demolab.com?user=ritesh355&theme=tokyonight&hide_border=true&nocache=1" />
 
 </p>
