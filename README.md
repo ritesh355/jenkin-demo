@@ -74,21 +74,19 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ritesh355&show_icons=true&theme=tokyonight&hide=issues,contribs" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritesh355&layout=compact&theme=tokyonight" height="165" />
 </p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ritesh355&theme=tokyonight&hide_border=true" />
 </p>
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ritesh355&theme=react-dark)
+  <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ritesh355&theme=react-dark" alt="Activity Graph" width="90%" />
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ritesh355&theme=radical&no-frame=true&column=4" />
-  <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ritesh355&theme=react-dark" alt="Activity Graph" width="90%" />
-</p>
+
 
 </p>
 
