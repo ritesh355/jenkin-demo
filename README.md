@@ -70,6 +70,9 @@
 ---
 
 ## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritesh355&layout=compact&theme=tokyonight&nocache=1" />
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ritesh355&show_icons=true&theme=tokyonight&hide=issues,contribs" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritesh355&layout=compact&theme=tokyonight" height="165" />
