@@ -71,7 +71,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ritesh355&show_icons=true&theme=tokyonight&hide=issues,contribs&nocache=1" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ritesh355&show_icons=true&theme=tokyonight&hide=issues,contribs&nocache=1" height="175" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritesh355&layout=compact&theme=tokyonight&nocache=1" height="165" />
 </p>
 
@@ -83,7 +83,7 @@
 ---
 
 ## 🏆 GitHub Trophies
-<p align="center">
+<p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=ritesh355&theme=radical&no-frame=true&column=4" />
 
 
