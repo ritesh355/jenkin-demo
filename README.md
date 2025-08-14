@@ -71,18 +71,13 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-
-<!-- Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=ritesh355&show_icons=true&theme=tokyonight&hide=issues,contribs&card_width=420" />
-
-<!-- Top Languages Card -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritesh355&layout=compact&theme=tokyonight&card_width=420" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=ritesh355&show_icons=true&theme=tokyonight&hide=issues,contribs&nocache=1" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritesh355&layout=compact&theme=tokyonight&nocache=1" height="165" />
 </p>
-  <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ritesh355&theme=tokyonight&hide_border=true&nocache=1" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ritesh355&theme=react-dark&nocache=1" />
 
+ <p align="center">
+  <img src="https://streak-stats.demolab.com?user=ritesh355&theme=tokyonight&hide_border=true&nocache=1" />
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=ritesh355&theme=react-dark&nocache=1" />
 </p>
 
 ---
