@@ -1,12 +1,19 @@
+## 🚀 CI/CD Status
 
-  <!-- GitHub Streak -->
-  <img 
-    src="https://github-readme-streak-stats-theta-hazel.vercel.app?user=ritesh355&theme=tokyonight&hide_border=true" 
-    alt="GitHub Streak" 
-    height="150" 
-  />
-</p>
+![Build & Auto-Deploy](https://github.com/ritesh355/portfolio/actions/workflows/main.yml/badge.svg)
 
+## 🔄 Deployment Workflow
 
-##
-hi this is ritesh
+```mermaid
+flowchart LR
+  A[Push to GitHub] --> B[GitHub Actions]
+  B --> C[Build & Test]
+  C --> D[Docker Build]
+  D --> E[Push to Docker Hub]
+  E --> F[SSH to EC2]
+  F --> G[Pull New Image]
+  G --> H[Stop & Remove Old Container]
+  H --> I[Run New Container]
+  I --> J{Is New Running?}
+  J -- yes --> K[Success]
+  J -- no --> L[Rollback to Previous]
