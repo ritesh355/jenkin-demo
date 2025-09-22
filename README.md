@@ -17,3 +17,7 @@ flowchart LR
   I --> J{Is New Running?}
   J -- yes --> K[Success]
   J -- no --> L[Rollback to Previous]
+
+
+## 🔄 Workflow Diagram
+![Workflow Diagram](./assets/workflow.png)
