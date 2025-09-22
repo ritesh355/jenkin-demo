@@ -18,6 +18,3 @@ flowchart LR
   J -- yes --> K[Success]
   J -- no --> L[Rollback to Previous]
 
-
-## 🔄 Workflow Diagram
-![Workflow Diagram](./assets/workflow.png)
